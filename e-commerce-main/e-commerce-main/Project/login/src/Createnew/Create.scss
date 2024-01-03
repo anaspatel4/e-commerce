@@ -1,0 +1,28 @@
+.createformfield {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(157, 15, 123, 0.7147233893557423) 99%);
+}
+
+.createforminputfield{
+    background-color: whitesmoke;
+    width: 40%;
+    padding: 1rem;
+    height: 95vh;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    padding-bottom: 2rem;
+}
+
+.createbutton{ 
+    text-align: right;
+}
+
+
+.createpagebuttons{
+    display: flex;
+    justify-content: space-between;
+}

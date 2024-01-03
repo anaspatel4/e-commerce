@@ -1,0 +1,44 @@
+.formfield {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #00DBDE;
+background-image: linear-gradient(90deg, #2ce9ec 0%, #fc60ff 100%);
+
+}
+
+.forminputfield {
+    background-color: whitesmoke;
+    padding: 1.5rem;
+    height: 75%;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    padding-bottom: 5rem;
+    width: 20rem;
+}
+
+.inputbutton {
+    background: rgb(15, 219, 223);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(157, 15, 123, 0.7147233893557423) 99%);
+color: white;
+}
+
+
+.allicons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+.facebook{
+    padding-right: 1rem;
+    color: blue;
+}
+.twitter{
+    padding-right: 1rem;
+    color: aqua; 
+}
+.google{
+    color: rgb(247, 84, 25);
+}
